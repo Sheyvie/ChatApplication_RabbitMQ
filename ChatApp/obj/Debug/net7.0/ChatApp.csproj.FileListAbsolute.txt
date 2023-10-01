@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\bin\Debug\net7.0\ChatApp.exe
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\bin\Debug\net7.0\ChatApp.deps.json
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\bin\Debug\net7.0\ChatApp.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\bin\Debug\net7.0\ChatApp.dll
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\bin\Debug\net7.0\ChatApp.pdb
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.csproj.CopyComplete
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.dll
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\refint\ChatApp.dll
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.pdb
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ChatApp.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\projects\ChatApp\ChatApp\obj\Debug\net7.0\ref\ChatApp.dll
